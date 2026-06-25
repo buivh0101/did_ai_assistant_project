@@ -29,13 +29,12 @@ The final model includes:
 * month fixed effects
 * user-level control variables
 
-The estimated DiD effect is **4.49 percentage points**.
+The estimated DiD effect is **4.55 percentage points**.
 
-The p-value is **0.0132**, which is below 0.05.
+The p-value is **0.0122**, which is below 0.05.
 
 This means the result is statistically significant.
 
-The 95% confidence interval is from **0.94 to 8.03 percentage points**.
 
 ## Business Recommendation
 
